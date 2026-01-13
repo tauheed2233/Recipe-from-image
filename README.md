@@ -1,3 +1,7 @@
+<img width="1975" height="926" alt="img1" src="https://github.com/user-attachments/assets/a48c42e4-de9c-449e-b354-60b11e578df0" />
+
+![img2](https://github.com/user-attachments/assets/05c7a358-acca-46d1-88f3-0ccfacfaef56)
+
 # Recipe Generation from Food Images
 
 An AI-powered web application that generates cooking recipes from food images using deep learning models. The system identifies dishes, predicts ingredients, and generates step-by-step cooking instructions.
@@ -72,4 +76,5 @@ Recipe-Generation-from-Food-Image/
 3. Ingredient prediction using attention mechanism
 4. Recipe generation using transformer decoder
 5. Post-processing and validation
+
 
